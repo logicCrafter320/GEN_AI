@@ -1,0 +1,13 @@
+.env
+Mvenv/
+__pycache__/
+.pytest_cache/
+.env
+myenv/
+__pycache__/
+
+.MyEnv/
+__pycache__/
+
+.venv/
+__pycache__/
